@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/synchrotraffixai/__init__.py
+src/synchrotraffixai/__main__.py
+src/synchrotraffixai/config.py
+src/synchrotraffixai/events.py
+src/synchrotraffixai/main.py
+src/synchrotraffixai/pipeline.py
+src/synchrotraffixai.egg-info/PKG-INFO
+src/synchrotraffixai.egg-info/SOURCES.txt
+src/synchrotraffixai.egg-info/dependency_links.txt
+src/synchrotraffixai.egg-info/entry_points.txt
+src/synchrotraffixai.egg-info/requires.txt
+src/synchrotraffixai.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+{
+  "video_source": 0,
+  "model_path": "yolov8n.pt",
+  "vehicle_classes": ["car", "bus", "truck", "motorbike"],
+  "count_line_y": 400,
+  "pixel_per_meter": 8.0,
+  "speed_threshold_crash": 5.0,
+  "crash_distance_pixels": 60,
+  "ocr_min_width": 60,
+  "lane_polygons": {
+    "lane_1": [[0, 480], [320, 300], [380, 300], [0, 480]],
+    "lane_2": [[320, 300], [1280, 300], [1280, 480], [380, 300]]
+  }
+}
